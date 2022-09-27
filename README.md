@@ -1,2 +1,2 @@
-# trex-TAF0
-dinosaurio que brinca obstaculos 
+# C41-Plantilla-Código
+Plantilla del código para mover al perro asincrónicamente.
